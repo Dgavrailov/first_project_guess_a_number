@@ -1,6 +1,7 @@
 import random
 
 computer_number = random.randint(1, 100)
+# the computer generates a random number
 
 
 while True:
